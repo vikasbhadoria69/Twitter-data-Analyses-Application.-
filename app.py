@@ -11,10 +11,10 @@ from PIL import Image
 import seaborn as sns
 
 
-consumerKey = 'cjkRvHziFQSpev18Vz507sXZx'
-consumerSecret = 'B8Ra5AIbRlroK1IJo07dRApLLksDUGLeOM9tatnNRVKTdkVGnd'
-accessToken = '816895657042538496-VcpVnZrNAabgNEKpVTHey89MTURyOrt'
-accessTokenSecret = 'iZv18sZpf39zbGHQaM9LHnT12IGmWC1XlYL78Yi5BKn6c'
+consumerKey = 'zXrpCqQKwGb81x8dXSoQV8n9K'
+consumerSecret = '3bsLoLrIBsMKfRF5rwZwbNFnDcntGI760EzCya5psitMsK3WYg'
+accessToken = '816895657042538496-WWk2DWWSshncL0f0vrpatN9FWuUN6Vd'
+accessTokenSecret = 'BFgtPyOvF8yVi8oGUoAU0W7oJn5PbfzOvjDduoHf4if1U'
 
 #Create the authentication object
 authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret) 
